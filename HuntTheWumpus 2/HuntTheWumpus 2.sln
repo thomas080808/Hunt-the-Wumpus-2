@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HuntTheWumpus 2", "HuntTheWumpus 2.vbproj", "{CD733059-FEFF-44C1-A2EC-E812FD7AA7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD733059-FEFF-44C1-A2EC-E812FD7AA7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD733059-FEFF-44C1-A2EC-E812FD7AA7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD733059-FEFF-44C1-A2EC-E812FD7AA7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD733059-FEFF-44C1-A2EC-E812FD7AA7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B89788E-41A9-45D2-8821-9E5C812FD1F9}
+	EndGlobalSection
+EndGlobal
